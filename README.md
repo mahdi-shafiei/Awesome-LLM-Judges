@@ -7,7 +7,6 @@
 - [🌱 Starter](#-starter)
 - [🎭 Ensemble](#-ensemble)
   - [🤔 Debate](#-debate)
-- [🔄 Pairwise](#-pairwise)
 - [🎯 Finetuned Models](#-finetuned-models)
   - [🌀 Hallucination](#-hallucination)
   - [🏆 Generative Reward Models](#-generative-reward-models)
@@ -86,7 +85,7 @@
 ---
 
 ## 🤖 Agents
-*🚧 Coming Soon! Stay tuned!*
+*🚧 Coming Soon -- Stay tuned!*
 
 ---
 
