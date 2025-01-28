@@ -77,6 +77,7 @@
 - [Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences](https://doi.org/10.1145/3597471.3597607)
 - [Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference](https://arxiv.org/abs/2501.00560)
 - [The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs](https://arxiv.org/abs/2501.10970)
+- [ReIFE: Re-evaluating Instruction-Following Evaluation](https://arxiv.org/abs/2410.07069)
 
 ### ⚖️ Biases
 - [Large Language Models are not Fair Evaluators](https://arxiv.org/abs/2305.17926)  
