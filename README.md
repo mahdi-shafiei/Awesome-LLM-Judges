@@ -76,6 +76,7 @@
 - [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://arxiv.org/abs/2411.16594)
 - [Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences](https://doi.org/10.1145/3597471.3597607)
 - [Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference](https://arxiv.org/abs/2501.00560)
+- [The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs](https://arxiv.org/abs/2501.10970)
 
 ### ⚖️ Biases
 - [Large Language Models are not Fair Evaluators](https://arxiv.org/abs/2305.17926)  
