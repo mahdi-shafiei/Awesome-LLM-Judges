@@ -4,6 +4,7 @@
 ---
 
 ## 📚 Table of Contents
+- [VERDICT](https://verdict.haizelabs.com/) 
 - [🌱 Starter](#-starter)
 - [🎭 Ensemble](#-ensemble)
   - [🤔 Debate](#-debate)
