@@ -1,10 +1,12 @@
 # ⚖️ **Awesome LLM Judges** ⚖️  
 *This repo curates recent research on LLM Judges for automated evaluation.*
 
+> [!TIP]
+> ⚖️ Check out our in-house LLM-as-a-judge library — [Verdict](https://verdict.haizelabs.com) — for hassle-free implementations of the papers below!
+
 ---
 
 ## 📚 Table of Contents
-- [VERDICT](https://verdict.haizelabs.com/) 
 - [🌱 Starter](#-starter)
 - [🎭 Ensemble](#-ensemble)
   - [🤔 Debate](#-debate)
