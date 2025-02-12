@@ -2,7 +2,7 @@
 *This repo curates recent research on LLM Judges for automated evaluation.*
 
 > [!TIP]
-> ⚖️ Check out our in-house LLM-as-a-judge library — [Verdict](https://verdict.haizelabs.com) — for hassle-free implementations of the papers below!
+> ⚖️ Check out [Verdict](https://verdict.haizelabs.com) — our in-house library for hassle-free implementations of the papers below!
 
 ---
 
