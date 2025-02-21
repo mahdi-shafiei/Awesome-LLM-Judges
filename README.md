@@ -68,6 +68,7 @@
 ### 🔍 Scalable Oversight
 - [On Scalable Oversight with Weak LLMs Judging Strong LLMs](https://arxiv.org/abs/2407.04622)  
 - [Debate Helps Supervise Unreliable Experts](https://arxiv.org/abs/2311.08702)
+- [Great Models Think Alike and this Undermines AI Oversight](https://arxiv.org/abs/2502.04313)
 
 ---
 
